@@ -1,0 +1,2 @@
+Use case is related to renting a car. The goal of this use case is to calculate the money that one should pay when renting a car. Surely this money will be affected by the kind of car, distace, kind of petrol, number of days.
+So, here user answers a couple of questions then based on those answers a message will be printed in the terminal about the money that person has been charged.
