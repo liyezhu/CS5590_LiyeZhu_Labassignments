@@ -1,14 +1,3 @@
-# Take Input of the project is one text file. Use the simple approach below to summarize a text file:
-# -Read the file
-# -Using Lemmatization, apply lemmatization on the remaining words
-# -Using POS, remove all the verbs
-# -Calculate the word frequency of the remaining words
-# -Choose top five words that has been repeated most
-# -Go through the original text that you had in the file
-# -Find all the sentences with those most repeated words
-# -Extract those sentences and concatenate
-# -Enjoy the summarization
-
 from nltk.tokenize import sent_tokenize
 from nltk.stem import WordNetLemmatizer
 from nltk.tag import pos_tag

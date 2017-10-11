@@ -12,7 +12,7 @@ x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.2)
 
 
 clf = svm.SVC(kernel='linear')
-clf.fit(x, y)
+clf.fit(x_train, y_train)
 
 y_pred=clf.predict(x_test)
 
@@ -20,7 +20,7 @@ print("accuracy of linear kernel is:")
 print(metrics.accuracy_score(y_test,y_pred))
 
 newclf = svm.SVC(kernel='rbf')
-newclf.fit(x, y)
+newclf.fit(x_train, y_train)
 
 y_pred_new=newclf.predict(x_test)
 
