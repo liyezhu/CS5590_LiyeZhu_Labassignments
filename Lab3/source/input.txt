@@ -1,0 +1,8 @@
+In computational linguistics, lemmatisation is the algorithmic process of determining the lemma for a given word.
+Since the process may involve complex tasks such as understanding context and  determining the part of speech of a word in a sentence it can be a hard task to implement a lemmatiser for a new language.
+Lemmatisation is closely related to stemming.
+The difference is that a stemmer operates on a single word without knowledge of the context, and therefore cannot discriminate between words which have different meanings depending on part of speech.
+However, stemmers are typically easier to implement Lemmatisation is closely related to stemming.
+The difference is that a stemmer operates on a single word without knowledge of the context, and therefore cannot discriminate between words which have different meanings depending on part of speech.
+However, stemmers are typically easier to implement and run faster, and the reduced accuracy may not matter for some applications.
+And run faster, and the reduced accuracy may not matter for some applications.
