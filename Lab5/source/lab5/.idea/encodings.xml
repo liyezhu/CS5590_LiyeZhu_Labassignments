@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/liye/finance_7000.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/liye/lifestyle_7000.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/rt-polaritydata/rt-polarity.neg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/rt-polaritydata/rt-polarity.pos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_helpers.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eval.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/text_cnn.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/train.py" charset="UTF-8" />
+  </component>
+</project>
