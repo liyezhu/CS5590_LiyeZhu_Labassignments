@@ -15,9 +15,11 @@
       <file leaf-file-name="train.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="45">
+              <caret line="99" column="27" lean-forward="true" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+              <folding>
+                <element signature="e#24#47#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,8 +49,9 @@
       <file leaf-file-name="1" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/lab2/1">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22500">
               <caret line="500" column="0" lean-forward="false" selection-start-line="500" selection-start-column="0" selection-end-line="500" selection-end-column="0" />
+            <state relative-caret-position="1210">
+              <caret line="500" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="500" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -133,7 +136,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="37" />
     <option name="y" value="24" />
     <option name="width" value="1243" />
@@ -158,51 +161,51 @@
         <subPane>
           <expand>
             <path>
-              <item name="DeepLearning_Lesson4_SourceCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning_Lesson4_SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DeepLearning_Lesson4_SourceCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning_Lesson4_SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DeepLearning_Lesson4_SourceCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning_Lesson4_SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="lab2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DeepLearning_Lesson4_SourceCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning_Lesson4_SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
               <item name="runs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DeepLearning_Lesson4_SourceCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning_Lesson4_SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
               <item name="runs" type="462c0819:PsiDirectoryNode" />
-              <item name="1510901641" type="462c0819:PsiDirectoryNode" />
+              <item name="1510908932" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DeepLearning_Lesson4_SourceCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning_Lesson4_SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
               <item name="runs" type="462c0819:PsiDirectoryNode" />
-              <item name="1510901641" type="462c0819:PsiDirectoryNode" />
+              <item name="1510908932" type="462c0819:PsiDirectoryNode" />
               <item name="summaries" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DeepLearning_Lesson4_SourceCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning_Lesson4_SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
               <item name="runs" type="462c0819:PsiDirectoryNode" />
-              <item name="1510901641" type="462c0819:PsiDirectoryNode" />
+              <item name="1510908932" type="462c0819:PsiDirectoryNode" />
               <item name="summaries" type="462c0819:PsiDirectoryNode" />
               <item name="dev" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DeepLearning_Lesson4_SourceCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning_Lesson4_SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
               <item name="runs" type="462c0819:PsiDirectoryNode" />
-              <item name="1510901641" type="462c0819:PsiDirectoryNode" />
+              <item name="1510908932" type="462c0819:PsiDirectoryNode" />
               <item name="summaries" type="462c0819:PsiDirectoryNode" />
               <item name="train" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -372,7 +375,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="-16" width="3872" height="2092" extended-state="7" />
+    <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23046875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -382,7 +385,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4520474" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15894397" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -410,7 +413,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -484,7 +489,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -571,14 +578,6 @@
     <entry file="file://$PROJECT_DIR$/data/lab2/3.txt" />
     <entry file="file://$PROJECT_DIR$/data/lab2/4.txt" />
     <entry file="file://$PROJECT_DIR$/data/lab2/1.txt" />
-    <entry file="file://$PROJECT_DIR$/data/lab2/1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22500">
-          <caret line="500" column="0" lean-forward="false" selection-start-line="500" selection-start-column="0" selection-end-line="500" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/lab2/2">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22500">
@@ -629,14 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/text_cnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/train.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -645,11 +636,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/lab2/1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="500" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="500" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding />
+        <state relative-caret-position="45">
+          <caret line="99" column="27" lean-forward="true" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
